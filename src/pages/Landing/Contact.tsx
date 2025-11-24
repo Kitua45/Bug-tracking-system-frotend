@@ -22,9 +22,7 @@ export default function Contact() {
         </p>
       </div>
 
-      <p className="text-center text-gray-500 mt-16">
-        © {new Date().getFullYear()} Bug Tracker System — All Rights Reserved
-      </p>
+    
     </motion.section>
   );
 }

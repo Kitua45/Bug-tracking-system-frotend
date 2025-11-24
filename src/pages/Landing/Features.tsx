@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Features() {
   return (
-    <section className="py-20 px-10 bg-[#F5F5F5]">
+    <section className="py-20 px-10 bg-[#f5f5f5]">
       <h2 className="text-4xl font-bold text-center text-[#054003]">
         System Features
       </h2>
